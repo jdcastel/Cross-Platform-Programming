@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XnnNO+7a2fnxMqHIQZjUVwpx5D7BBrwUeUmdllj5oE36gcS2/7MweWhCr8b2gHe/dh18wgjNSizl2Bz3PC+SIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\caste\\OneDrive\\Documentos\\Seneca\\MAP NSA\\Assign1\\Assign1\\Assign1.iOS\\Assign1.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caste\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\caste\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\caste\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
